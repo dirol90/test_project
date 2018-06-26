@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test_project</string>
+    <string name="create_new_notification">Create new\n planet</string>
+</resources>
